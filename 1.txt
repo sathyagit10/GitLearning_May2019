@@ -3,3 +3,5 @@ this is my first file
 amended
 
 amended2
+
+USer2 has changed the file
