@@ -6,3 +6,6 @@ amended2
 
 this is changes from user1
 USer2 has changed the file
+
+
+made a change from eclipse
